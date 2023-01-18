@@ -1,0 +1,12 @@
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\bin\Debug\net7.0\Delivery_Kursowa.Utility.deps.json
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\bin\Debug\net7.0\Delivery_Kursowa.Utility.dll
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\bin\Debug\net7.0\Delivery_Kursowa.Utility.pdb
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.csproj.AssemblyReference.cache
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.AssemblyInfoInputs.cache
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.AssemblyInfo.cs
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.csproj.CoreCompileInputs.cache
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.dll
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\refint\Delivery_Kursowa.Utility.dll
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\Delivery_Kursowa.Utility.pdb
+C:\Users\YoNiga7\source\repos\Delivery Kursowa\Delyvery_Kursowa.Utility\obj\Debug\net7.0\ref\Delivery_Kursowa.Utility.dll
