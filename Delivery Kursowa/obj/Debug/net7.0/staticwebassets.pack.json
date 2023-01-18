@@ -1,0 +1,361 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Delivery Kursowa.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Delivery Kursowa.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\css\\bootswatchTheme.css",
+      "PackagePath": "staticwebassets\\css\\bootswatchTheme.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\0d3501b1-4002-41ba-b85e-592d69ad4727.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0d3501b1-4002-41ba-b85e-592d69ad4727.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\10512a11-b591-45f3-bf88-fd6ef4377b87.webp",
+      "PackagePath": "staticwebassets\\images\\products\\10512a11-b591-45f3-bf88-fd6ef4377b87.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\1247c9b6-2ba1-4ac6-86c6-fc0c43012f56.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1247c9b6-2ba1-4ac6-86c6-fc0c43012f56.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\1d19790c-945b-488a-9ccb-7c99c4f3d9b8.webp",
+      "PackagePath": "staticwebassets\\images\\products\\1d19790c-945b-488a-9ccb-7c99c4f3d9b8.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\227560e9-afb9-4f41-a173-8afe8a4acece.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\227560e9-afb9-4f41-a173-8afe8a4acece.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\26c24cba-b9d9-4d21-a6ee-fd03db731fe4.webp",
+      "PackagePath": "staticwebassets\\images\\products\\26c24cba-b9d9-4d21-a6ee-fd03db731fe4.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\2cd6b347-ea98-497f-9e44-9b08130a41ee.webp",
+      "PackagePath": "staticwebassets\\images\\products\\2cd6b347-ea98-497f-9e44-9b08130a41ee.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\363b7508-c483-472b-a2ed-c921a50a3acd.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\363b7508-c483-472b-a2ed-c921a50a3acd.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\4f6a5895-276c-4634-8b9a-acd6e3e5a84a.webp",
+      "PackagePath": "staticwebassets\\images\\products\\4f6a5895-276c-4634-8b9a-acd6e3e5a84a.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\5f16f687-fb35-4918-8c59-4979b66387a3.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\5f16f687-fb35-4918-8c59-4979b66387a3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\61fc151c-874c-42ec-bda9-6ee7d8c2914d.jfif",
+      "PackagePath": "staticwebassets\\images\\products\\61fc151c-874c-42ec-bda9-6ee7d8c2914d.jfif"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\7088ada4-5c32-4c52-bc99-72b467384732.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7088ada4-5c32-4c52-bc99-72b467384732.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\7a8433fa-ae68-44f0-8653-7113b19665b5.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7a8433fa-ae68-44f0-8653-7113b19665b5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\7cafd496-77cf-42a6-9abf-03b45bc9d606.webp",
+      "PackagePath": "staticwebassets\\images\\products\\7cafd496-77cf-42a6-9abf-03b45bc9d606.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\af15f33d-84aa-4535-b502-6bf72d92b1b9.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\af15f33d-84aa-4535-b502-6bf72d92b1b9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\b1c3b3bd-61c0-4994-91bd-ff1375f9c9bb.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b1c3b3bd-61c0-4994-91bd-ff1375f9c9bb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\c8a601dc-aa93-4709-92ea-189769f4bea1.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\c8a601dc-aa93-4709-92ea-189769f4bea1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\cc8d764d-9eac-456d-9861-67d488ea662c.webp",
+      "PackagePath": "staticwebassets\\images\\products\\cc8d764d-9eac-456d-9861-67d488ea662c.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\df7bd397-436d-4187-857e-aa9d7bf01e3c.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\df7bd397-436d-4187-857e-aa9d7bf01e3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\e7bb9f37-6ddb-4463-bdd9-82fa800435a9.webp",
+      "PackagePath": "staticwebassets\\images\\products\\e7bb9f37-6ddb-4463-bdd9-82fa800435a9.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\images\\products\\fac58489-a385-4ae4-b1f7-c9303df517bc.webp",
+      "PackagePath": "staticwebassets\\images\\products\\fac58489-a385-4ae4-b1f7-c9303df517bc.webp"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\YoNiga7\\source\\repos\\Delivery Kursowa\\Delivery Kursowa\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Delivery Kursowa.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Delivery Kursowa.props",
+      "PackagePath": "build\\Delivery Kursowa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Delivery Kursowa.props",
+      "PackagePath": "buildMultiTargeting\\Delivery Kursowa.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Delivery Kursowa.props",
+      "PackagePath": "buildTransitive\\Delivery Kursowa.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
